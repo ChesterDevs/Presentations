@@ -1,0 +1,948 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ran",
+				"randomAnswer"
+			],
+			[
+				"fift",
+				"fifty_fifty"
+			],
+			[
+				"fif",
+				"fiftyFifty"
+			],
+			[
+				"phone",
+				"phone_a_friend"
+			],
+			[
+				"text",
+				"textAlign"
+			],
+			[
+				"defa",
+				"default_template"
+			],
+			[
+				"box",
+				"colour_box_middle"
+			],
+			[
+				"templ",
+				"templateStyles"
+			],
+			[
+				"Templat",
+				"TemplateStyles"
+			],
+			[
+				"create",
+				"createStyleSheet"
+			],
+			[
+				"send",
+				"sendMultipleChoice"
+			],
+			[
+				"answer",
+				"answerChars"
+			],
+			[
+				"def",
+				"default_template"
+			],
+			[
+				"de",
+				"default_template"
+			],
+			[
+				"font",
+				"fontSize"
+			],
+			[
+				"sele",
+				"selected_answer"
+			],
+			[
+				"render",
+				"renderRow"
+			],
+			[
+				"quest",
+				"question_id"
+			],
+			[
+				"strip",
+				"stripZeroValues"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"setOrder",
+				"enchant_broker_set_ordering"
+			],
+			[
+				"all",
+				"allWithoutAccount"
+			],
+			[
+				"vir",
+				"virtual_path"
+			],
+			[
+				"payment",
+				"payment_method_id"
+			],
+			[
+				"show_",
+				"show_abandoned_orders"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 9271,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 73.0,
+		"last_filter": "Package Control: inst",
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: int",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jamestierney/Dev/Slides",
+		"/Users/jamestierney/Dev/Slides/www"
+	],
+	"file_history":
+	[
+		"/Users/jamestierney/Dev/testbed/www/AwesomeProject/index.android.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/index.ios.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/index.android.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/android/settings.gradle",
+		"/Users/jamestierney/Dev/testbed/www/AwesomeProject/android/local.properties",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/android/app/build.gradle",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/App.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Login/Panel.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/package.json",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/android/build.gradle",
+		"/Users/jamestierney/Dev/testbed/AwesomeProject/android/settings.gradle",
+		"/Users/jamestierney/Dev/testbed/AwesomeProject/node_modules/react-native/local-cli/generator-ios/templates/xcodeproj/project.pbxproj",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/test/ScrollView.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Actions/GameActions.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Question/Panel.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Question/MultipleChoiceInput.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Question/PassButton.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Question/SendButton.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Question/Millionaire.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Question/FiftyFiftyButton.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Styles/Global.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Question/PhoneAFriendButton.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Support/Template.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Interstitial/Panel.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Styles/Question.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Question/Answer.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Menu/Panel.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Constants/AppConstants.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Menu/BackButton.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Menu/ChangeTeamButton.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Menu/InstructionsButton.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Menu/LogoutButton.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Layout/Header.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Layout/MenuButton.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Login/SubmitButton.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Question/FreeTextInput.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Layout/Template.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Question/Question.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Styles/Header.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Actions/TeamActions.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Stores/GameStore.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Menu/BackToGameButton.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Actions/LoginActions.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Question/SubmitButton.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Layouts/Header.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Layouts/Template.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Styles/Interstitial.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Styles/Login.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Interstitial.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Question/List.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Components/Login/Button.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/src/Services/GameService.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/.gitignore",
+		"/Users/jamestierney/Dev/testbed/GameService.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/app/Components/../App.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/app/Components/Interstitial.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/app/Components/Login.js",
+		"/Users/jamestierney/Dev/testbed/www/KdmQuiz/app/Components/App.js",
+		"/Users/jamestierney/Dev/testbed/puphpet/config.yaml",
+		"/Users/jamestierney/Dev/TGP jobs/www/app/Http/routes/jobs.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/app/Http/Controllers/Controller.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/app/Http/Controllers/JobsController.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/.env",
+		"/Users/jamestierney/Dev/TGP jobs/www/app/Http/Controllers/ProjectsController.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/composer.json",
+		"/Users/jamestierney/Dev/TGP jobs/www/vendor/acacha/admin-lte-template-laravel/composer.json",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/screens/jobs/index.blade.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/screens/jobs/partials/feedback.blade.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/screens/jobs/partials/images.blade.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/screens/projects/index.blade.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/app/Http/routes/projects.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/app/Http/routes.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/app/helpers.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/screens/jobs/partials/data.blade.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/screens/projects/edit.blade.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/screens/projects/create.blade.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/screens/projects/partials/form.blade.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/screens/jobs/partials/form.blade.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/partials/sidebar.blade.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/screens/groups",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/partials/mainheader.blade.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/app/Http/Controllers/DashboardController.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/public/css/jobs.css",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/screens/jobs/partials/summary.blade.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/screens/jobs/create.blade.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/.env.example",
+		"/Users/jamestierney/Dev/TGP jobs/www/database/seeds/UserTableSeeder.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/screens/jobs/show.blade.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/screens/jobs/edit.blade.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/public/css/job.css",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/partials/scripts.blade.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/partials/htmlheader.blade.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/partials/contentheader.blade.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/screens/jobs/partials/timesheets.blade.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/config/app.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/auth/login.blade.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/app.blade.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/home.blade.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/partials/controlsidebar.blade.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/resources/views/partials/footer.blade.php",
+		"/Users/jamestierney/Dev/TGP jobs/puphpet/config.yaml",
+		"/Users/jamestierney/Dev/TGP jobs/www/database/seeds/DatabaseSeeder.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/app/Http/jobs/jobs.php",
+		"/Users/jamestierney/Dev/TGP jobs/www/database/seeds/UsersTableSeeder.php",
+		"/Users/jamestierney/Dev/CRM-legacy/www/database/migrations/2015-08-20-add-client-feedback-to-job-table.sql",
+		"/Users/jamestierney/Dev/CRM-legacy/www/fd_crm/api/client/Controllers/BaseController.php",
+		"/Users/jamestierney/Dev/CRM-legacy/www/fd_crm/routes.php",
+		"/Users/jamestierney/Dev/CRM-legacy/www/fd_crm/api/client/Controllers/JobController.php",
+		"/Users/jamestierney/Dev/CRM-legacy/www/fd_crm/api/client/job.php",
+		"/Users/jamestierney/Dev/CRM-legacy/www/fd_crm/api/client.php",
+		"/Users/jamestierney/Dev/CRM-legacy/www/fd_crm/api/Support/Response.php",
+		"/Users/jamestierney/Dev/CRM-legacy/www/fd_crm/templates/job.html",
+		"/Users/jamestierney/Dev/CRM-legacy/www/fd_crm/scripts/job.php",
+		"/Users/jamestierney/Dev/CRM-legacy/www/phang_2_1/core/scripts/tables.php",
+		"/Users/jamestierney/Dev/CRM-legacy/www/fd_crm/scripts/includes/init.php",
+		"/Users/jamestierney/Dev/CRM-legacy/www/phang_2_1/core/scripts/functions/synchronise.php",
+		"/Users/jamestierney/Dev/CRM-legacy/www/.gitignore",
+		"/Users/jamestierney/Dev/CRM-legacy/www/.htaccess",
+		"/Users/jamestierney/Dev/CRM-legacy/www/.example/config.php",
+		"/Users/jamestierney/Dev/CRM-legacy/www/config.php",
+		"/Users/jamestierney/Dev/CRM-legacy/www/.example/.htaccess",
+		"/Users/jamestierney/Dev/CRM-legacy/www/example/.gitkeep",
+		"/Users/jamestierney/Dev/Charabanc/www/vendor/fifteen/generators/src/Console/Commands/ControllerGeneratorCommand.php",
+		"/Users/jamestierney/Dev/Lawro/www/app/Seeds/WeekStatusesTableSeeder.php",
+		"/Users/jamestierney/Dev/Lawro/www/app/Seeds/ScoreTypesTableSeeder.php",
+		"/Users/jamestierney/Dev/Lawro/www/app/Seeds/TeamsTableSeeder.php",
+		"/Users/jamestierney/Dev/Lawro/www/app/Seeds/SeasonsTableSeeder.php",
+		"/Users/jamestierney/Dev/Lawro/www/database/schemas/teams.json"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			"/Users/jamestierney/Dev/TGP jobs/www",
+			"/Users/jamestierney/Dev/TGP jobs/www/resources",
+			"/Users/jamestierney/Dev/CRM-legacy/www/fd_crm/scripts/api/client",
+			"/Users/jamestierney/Dev/CRM-legacy/www",
+			"/Users/jamestierney/Dev/CRM-legacy/www/fd_crm",
+			"/Users/jamestierney/Dev/Charabanc/www/vendor/fifteen/generators",
+			"/Users/jamestierney/Dev/Charabanc/www/app/",
+			"/Users/jamestierney/Dev/Charabanc/www/vendor/fifteen/generators/src",
+			"/Users/jamestierney/Dev/Charabanc/www/app",
+			"/Users/jamestierney/Dev/Charabanc/www",
+			"/Users/jamestierney/Dev/Charabanc/www/vendor/fifteen/autolang/src",
+			"/Users/jamestierney/Dev/Potclays/www/admin/public/assets/vendor/tiny_mce",
+			"/Users/jamestierney/Dev/Potclays/www/admin",
+			"/Users/jamestierney/Dev/Potclays/www/admin/public/assets/vendor/tiny_mce",
+			"/Users/jamestierney/Dev/Potclays/www/admin/src/admin",
+			"/Users/jamestierney/Dev/Potclays/www/admin",
+			"/Users/jamestierney/Dev/Potclays/www/pyop/src",
+			"/Users/jamestierney/Dev/Potclays/www/pyop/vendor/omnipay",
+			"/Users/jamestierney/Dev/Potclays/www/pyop/vendor",
+			"/Users/jamestierney/Dev/Potclays/www/pyop/src/front",
+			"/Users/jamestierney/Dev/Potclays/www/pyop/front/views",
+			"/Users/jamestierney/Dev/Potclays/www/studio/vendor/omnipay/sagepay",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"strip",
+			"return",
+			"REQUEST_URL",
+			"this.state.",
+			"styles1",
+			"UIExplorerPage",
+			"{\n",
+			"$record->",
+			"postApiResourceWithFiles",
+			"postApiResource",
+			"fd_crm",
+			"						<a class=\"pull-right btn btn-default btn-xs edit-message\" data-id=\"{{ $item->job_message_id }}\">\n							Edit\n						</a>\n",
+			"status",
+			"active",
+			"job",
+			"Job",
+			"job",
+			"projectsController",
+			"job",
+			"legacy-crm",
+			"JobsController",
+			"jobs.index",
+			"area",
+			"album",
+			"$_REQUEST",
+			"user",
+			"synchronise",
+			"synchronize",
+			"synchronise",
+			"' ",
+			"str",
+			"Fifteen\\Generators\\Commands",
+			"generator",
+			"$this->getTemplatePath() . '/",
+			"Helpers",
+			"app_path() . '/Helpers/Generators/templates",
+			"Helpers",
+			"App\\Helpers\\Generators\\Generator",
+			"Helpers",
+			"App\\Console\\Commands\\Generators",
+			", ",
+			",",
+			"App\\Helpers\\Generators",
+			"<?php namespace App\\Console\\Commands\\Generators;",
+			"Navigation",
+			"Lang2",
+			"\".*'.*\"",
+			"\".*,.*\"",
+			"\".*'.*\"",
+			"}\n",
+			"Support",
+			"function error(",
+			"error",
+			"_getE",
+			"/mceItemMediaService",
+			"mceItemMediaService_youtube",
+			"master",
+			"NavigationRepository",
+			"MainNavigationController",
+			"handleAddresses",
+			"getaddress(",
+			"getaddress",
+			"run_service:",
+			"Menu::",
+			"sendData(",
+			"sendData",
+			"send(",
+			"httpclient",
+			"guzzle",
+			"curl",
+			"NotificationUrl",
+			"SuccessURL",
+			"vps",
+			"successurl",
+			"vpsprotocol",
+			"\\Session::get('order_id')",
+			"home",
+			"Pages.workshop",
+			"TxType",
+			"']);\n",
+			"$virtual_path . '/",
+			"accountsController",
+			"users",
+			"'as' => 'users",
+			"james@fifteendigital.co.uk",
+			"required_dispatch_date",
+			"visible",
+			"p(",
+			"pd(",
+			"\\'([0-9]+)\\'",
+			"/\\'([0-9]+)\\'/",
+			"\\'([0-9]+)\\'",
+			"\\'([0-9]+)\\' \\=\\> \\'(.*)\\',",
+			"\\'([0-9]+)\\' \\=\\> '(.*)',",
+			"				case 'delivery_country_id':\n					$data[$field] = $record->delivery_country_id ? $record->deliveryCountry->name : '';\n					break;\n",
+			"delivery_country_id",
+			"				case 'person_title':\n					$data[$field] = $record->person_title_id ? $record->personTitle->name : '';\n					break;\n",
+			"											<span class=\"label label-{{ $record->getStatusLabel() }}\">\n												{{ $record->orderStatus->name }}\n											</span>\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"data.",
+			"data",
+			"styles",
+			"item.",
+			"public",
+			"project",
+			"Project",
+			"project",
+			"ProjectsController",
+			"project",
+			"JobsController",
+			"category",
+			"job",
+			"Fifteen\\Generators\\Console\\Commands",
+			"$this->getRootTemplatePath() . '/",
+			"$this->getTemplatePath() . '",
+			"Fifteen\\Generators\\Generator",
+			"Fifteen\\Generators\\Commands",
+			"', '",
+			"Fifteen\\Generators",
+			"<?php namespace Fifteen\\Generators\\Commands;",
+			"<?php\\n\\n namespace Fifteen\\Generators\\Commands;",
+			"Alang",
+			"$virtual_path . '",
+			"AccountsController",
+			"accounts",
+			"'as' => 'admin.users"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 6,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "slides.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"compo",
+				"www/composer.json"
+			],
+			[
+				"index",
+				"www/resources/views/screens/projects/index.blade.php"
+			],
+			[
+				"jobscon",
+				"www/app/Http/Controllers/JobsController.php"
+			],
+			[
+				"composer",
+				"www/composer.json"
+			],
+			[
+				"routes/jo",
+				"www/app/Http/routes/jobs.php"
+			],
+			[
+				"route",
+				"www/app/Http/routes.php"
+			],
+			[
+				".env",
+				"www/.env"
+			],
+			[
+				"configapp",
+				"www/config/app.php"
+			],
+			[
+				"job.ph",
+				"fd_crm/scripts/job.php"
+			],
+			[
+				"generatorcontro",
+				"www/vendor/fifteen/generators/src/Console/Commands/ControllerGeneratorCommand.php"
+			],
+			[
+				"baserepo",
+				"www/app/Repositories/Eloquent/BaseRepository.php"
+			],
+			[
+				"weekscon",
+				"www/app/Http/Controllers/WeeksController.php"
+			],
+			[
+				"main",
+				"www/app/Navigation/MainNavigationController.php"
+			],
+			[
+				"laravel",
+				"www/storage/logs/laravel.log"
+			],
+			[
+				"autolang",
+				"www/vendor/fifteen/autolang/src/AutoLang.php"
+			],
+			[
+				"master",
+				"www/resources/views/layouts/master.blade.php"
+			],
+			[
+				"layoutsmast",
+				"www/resources/views/layouts/master.blade.php"
+			],
+			[
+				"dashbo",
+				"www/resources/views/screens/dashboard.blade.php"
+			],
+			[
+				"app",
+				"www/config/app.php"
+			],
+			[
+				"controllergener",
+				"www/vendor/fifteen/generators/src/Console/Commands/ControllerGeneratorCommand.php"
+			],
+			[
+				"usersrepo",
+				"www/app/Repositories/Eloquent/UsersRepository.php"
+			],
+			[
+				"usersserv",
+				"www/app/ResourceServices/UsersResourceService.php"
+			],
+			[
+				"abstractnav",
+				"www/vendor/fifteen/navigation/src/Support/AbstractNavigationController.php"
+			],
+			[
+				"dashboar",
+				"www/app/Http/Controllers/DashboardController.php"
+			],
+			[
+				"autolangservi",
+				"www/vendor/fifteen/autolang/src/AutoLangServiceProvider.php"
+			],
+			[
+				"confapp",
+				"www/config/app.php"
+			],
+			[
+				"authenti",
+				"old/app/Http/Middleware/Authenticate.php"
+			],
+			[
+				"kernel",
+				"old/app/Http/Kernel.php"
+			],
+			[
+				"layoutspartialstop",
+				"www/resources/views/layouts/partials/top.blade.php"
+			],
+			[
+				"paymentonacc",
+				"www/pyop/src/front/Modules/Payment/PaymentOnAccountPaymentsController.php"
+			],
+			[
+				"pyopsrcfornthelperbas",
+				"www/pyop/src/front/Helpers/Basket.php"
+			],
+			[
+				"appstoragelogslara",
+				"www/studio/app/storage/logs/laravel.log"
+			],
+			[
+				"helper",
+				"www/admin/src/shared/helpers.php"
+			],
+			[
+				"mainna",
+				"www/admin/src/admin/Navigation/MainNavigationController.php"
+			],
+			[
+				"studiosrccustomersrepo",
+				"www/studio/src/front/Repositories/Shop/CustomersRepository.php"
+			],
+			[
+				"pyopsrccustomersrepos",
+				"www/pyop/src/front/Repositories/Shop/CustomersRepository.php"
+			],
+			[
+				"adminviewscustomeraddresscre",
+				"www/admin/admin/views/shop/customers/addresses/create.blade.php"
+			],
+			[
+				"customeraddressform",
+				"www/admin/admin/views/shop/customers/addresses/partials/form.blade.php"
+			],
+			[
+				"customeraddressob",
+				"www/admin/src/admin/Observers/Shop/CustomerAddressesObserver.php"
+			],
+			[
+				"adminviewscustaddres",
+				"www/admin/admin/views/shop/customers/partials/addresses.blade.php"
+			],
+			[
+				"countries",
+				"www/admin/src/admin/Repositories/Shop/CountriesRepository.php"
+			],
+			[
+				"updatecustomer",
+				"www/admin/src/admin/Services/Shop/UpdateCustomersService.php"
+			],
+			[
+				"customeraddress",
+				"www/admin/src/admin/Models/Shop/CustomerAddress.php"
+			],
+			[
+				"customeraddressesrepo",
+				"www/admin/src/admin/Repositories/Shop/CustomerAddressesRepository.php"
+			],
+			[
+				"countriesrepository",
+				"www/admin/src/front/Repositories/Shop/CountriesRepository.php"
+			],
+			[
+				"countriesrepo",
+				"www/pyop/src/admin/Repositories/Shop/CountriesRepository.php"
+			],
+			[
+				"addressesrepo",
+				"www/admin/src/admin/Repositories/Shop/CustomerAddressesRepository.php"
+			],
+			[
+				"pyopsrcfrontcontroadd",
+				"www/pyop/src/front/Controllers/Shop/CustomerAddressesController.php"
+			],
+			[
+				"adminsrcadmincontrolladdres",
+				"www/admin/src/admin/Controllers/Shop/CustomerAddressesController.php"
+			],
+			[
+				"adminadminviewscustaddress",
+				"www/admin/admin/views/shop/customers/addresses/partials/form.blade.php"
+			],
+			[
+				"adminadminviewscustomeraddress",
+				"www/admin/admin/views/shop/customers/addresses/edit.blade.php"
+			],
+			[
+				"lara",
+				"www/admin/app/storage/logs/laravel.log"
+			],
+			[
+				"commandimport",
+				"www/admin/src/admin/Commands/Shop/ImportCustomersCommand.php"
+			],
+			[
+				"appconfsession",
+				"www/studio/app/config/session.php"
+			],
+			[
+				"pyopsrcfronthelpcust",
+				"www/pyop/src/front/Helpers/Customer.php"
+			],
+			[
+				"srcfronthelperscus",
+				"www/admin/src/front/Helpers/Customer.php"
+			],
+			[
+				"adminservicecustomer",
+				"www/admin/src/admin/Services/Shop/UpdateCustomersService.php"
+			],
+			[
+				"omnipaypa",
+				"www/pyop/src/front/Modules/Payment/OmnipayPaymentsController.php"
+			],
+			[
+				"omnipa",
+				"www/admin/src/front/Modules/Payment/OmnipayPaymentsController.php"
+			],
+			[
+				"baske",
+				"www/studio/src/front/Helpers/Basket.php"
+			],
+			[
+				"basket",
+				"www/pyop/src/front/Helpers/Basket.php"
+			],
+			[
+				"studiobasket",
+				"www/studio/src/front/Helpers/Basket.php"
+			],
+			[
+				"cookie",
+				"www/studio/public/assets/front/js/cookiechoices.js"
+			],
+			[
+				"footer",
+				"www/studio/front/views/layouts/partials/footer.twig"
+			],
+			[
+				"workshop",
+				"www/pyop/front/views/templates/workshops_events.twig"
+			],
+			[
+				"omnip",
+				"www/admin/vendor/omnipay/common/src/Omnipay/Omnipay.php"
+			],
+			[
+				"sagepa",
+				"www/admin/src/front/Modules/Payment/SagepayPaymentsController.php"
+			],
+			[
+				"admin/routes",
+				"www/admin/src/admin/routes.php"
+			],
+			[
+				"routes.php",
+				"www/admin/app/routes.php"
+			],
+			[
+				"updatepro",
+				"www/admin/src/admin/Services/Shop/UpdateProductsService.php"
+			],
+			[
+				"modelsord",
+				"www/admin/src/admin/Models/Shop/Order.php"
+			],
+			[
+				"ordersserv",
+				"www/admin/src/admin/Services/Shop/ExportOrdersService.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 908.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

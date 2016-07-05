@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+      <head>
+            <meta charset="utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+            <title>Chester Devs Presentations</title>
+            <!-- Bootstrap -->
+            <!-- Latest compiled and minified CSS -->
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+            <!-- Optional theme -->
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+            <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+            <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+            <!--[if lt IE 9]>
+                  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+                  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+            <![endif]-->
+            <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/s/bs/dt-1.10.10/datatables.min.css"/>
+      </head>
+
+      <body>
+            <div class="container">
+                  <div class="row">
+                        <div class="col-md-12">
+                              <h1>Chester Devs Presentations</h1>
+                        </div>
+                  </div>
+                  <div class="row">
+
+                        <div class="col-md-9">
+                              <table class="table table-striped js-presentations">
+                                    <thead>
+                                          <tr>
+                                                <th>Date</th>
+                                                <th>Presentation</th>
+                                                <th>By</th>
+                                          </tr>
+                                    </thead>
+                                    <tbody>
+                                          <tr>
+                                                <td>06/07/2016</td>
+                                                <td>
+                                                      <a href="presentations/docker.html">AWS Elastic Beanstalk and Docker</a>
+                                                </td>
+                                                <td>Thomas Redstone</td>
+                                          </tr>
+                                    </tbody>
+                              </table>
+                        </div>
+                  </div>
+            </div>
+            <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+            <!-- Latest compiled and minified JavaScript -->
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+            <script type="text/javascript" src="https://cdn.datatables.net/s/bs/dt-1.10.10/datatables.min.js"></script>
+            <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.4/moment.min.js"></script>
+            <script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.10/sorting/datetime-moment.js"></script>
+            <script type="text/javascript">
+                  $(document).ready(function() {
+                        $.fn.dataTable.moment('DD/MM/YYYY', 'en');
+                        $('.js-presentations').DataTable({
+                              pageLength: 10,
+                              order: [[ 0, "desc" ]]
+                        });
+                  } );
+            </script>
+      </body>
+</html>
